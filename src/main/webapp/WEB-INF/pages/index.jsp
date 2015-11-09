@@ -3,7 +3,7 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
-	<title>Bootstrap中文网</title>
+	<title>小迪信息科技</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为3.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。">
 	<meta name="keywords" content="Bootstrap,CSS,CSS框架,CSS framework,javascript,bootcss,bootstrap开发,bootstrap代码,bootstrap入门">
@@ -32,7 +32,6 @@
 	<![endif]-->
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon-precomposed" href="http://static.bootcss.com/www/assets/ico/apple-touch-icon-precomposed.png">
 	<link rel="shortcut icon" href="http://static.bootcss.com/www/assets/ico/favicon.png">
 
 	<script>
@@ -73,40 +72,6 @@
 	</div>
 </div>
 
-<%--<div class="jumbotron masthead">--%>
-	<%--<div class="container">--%>
-		<%--<img src="static/img/view1.jpg">--%>
-		<%--&lt;%&ndash;<h1>Bootstrap</h1>&ndash;%&gt;--%>
-		<%--&lt;%&ndash;<h2>简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。</h2>&ndash;%&gt;--%>
-		<%--&lt;%&ndash;<p class="masthead-button-links">&ndash;%&gt;--%>
-			<%--&lt;%&ndash;<a class="btn btn-lg btn-primary btn-shadow" href="http://v3.bootcss.com/" target="_blank" role="button" onclick="_hmt.push(['_trackEvent', 'masthead', 'click', 'masthead-Bootstrap3中文文档'])">Bootstrap3中文文档(v3.3.5)</a>&ndash;%&gt;--%>
-		<%--&lt;%&ndash;</p>&ndash;%&gt;--%>
-		<%--&lt;%&ndash;<ul class="masthead-links">&ndash;%&gt;--%>
-			<%--&lt;%&ndash;<li>&ndash;%&gt;--%>
-				<%--&lt;%&ndash;<a href="http://v2.bootcss.com/" target="_blank" role="button" onclick="_hmt.push(['_trackEvent', 'masthead', 'click', 'masthead-Bootstrap2中文文档'])">Bootstrap2中文文档(v2.3.2)</a>&ndash;%&gt;--%>
-			<%--&lt;%&ndash;</li>&ndash;%&gt;--%>
-		<%--&lt;%&ndash;</ul>&ndash;%&gt;--%>
-	<%--</div>--%>
-<%--</div>--%>
-
-<%--<div class="bc-social">--%>
-	<%--<div class="container">--%>
-		<%--<ul class="bc-social-buttons">--%>
-			<%--<li class="social-qq">--%>
-				<%--<i class="fa fa-qq"></i> Bootstrap技术交流群：<span id="qqgroup">318630708</span>--%>
-			<%--</li>--%>
-			<%--<li class="social-forum">--%>
-				<%--<a class="" href="http://wenda.bootcss.com" title="Bootstrap问答社区" target="_blank"  onclick="_hmt.push(['_trackEvent', 'masthead', 'click', 'masthead-Bootstrap问答社区'])">--%>
-					<%--<i class="fa fa-comments"></i> Bootstrap问答社区--%>
-				<%--</a>--%>
-			<%--</li>--%>
-			<%--<li class="social-weibo">--%>
-				<%--<a href="http://weibo.com/bootcss" title="Bootstrap中文网官方微博" target="_blank" onclick="_hmt.push(['_trackEvent', 'masthead', 'click', 'masthead-新浪微博'])"><i class="fa fa-weibo"></i> 新浪微博：@Bootstrap中文网</a>--%>
-			<%--</li>--%>
-		<%--</ul>--%>
-	<%--</div>--%>
-<%--</div>--%>
-
 <div class="container">
 	<img style="width: 100%" src="static/img/view1.png">
 </div>
@@ -115,7 +80,7 @@
 <div class="container projects">
 
 	<div class="projects-header page-header">
-		<h2>Bootstrap相关优质项目推荐</h2>
+		<h2>能打电话的智能手表</h2>
 		<p>这些项目或者是对Bootstrap进行了有益的补充，或者是基于Bootstrap开发的</p>
 	</div>
 

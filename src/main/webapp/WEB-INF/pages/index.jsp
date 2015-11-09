@@ -42,7 +42,7 @@
 	<meta name="generator" content="Ghost 0.5" />
 	<link rel="alternate" type="application/rss+xml" title="Bootstrap中文网" href="http://www.bootcss.com/rss/" />
 	<script>
-		var qqgroup = '318630708';
+		var qqgroup = '318630710';
 	</script>
 
 </head>
@@ -74,73 +74,25 @@
 
 <div class="container">
 	<img style="width: 100%" src="static/img/view1.png">
+	<div class="projects-header page-header">
+		<h2>能打电话的智能手表</h2>
+		<p>这些项目或者是对Bootstrap进行了有益的补充，或者是基于Bootstrap开发的</p>
+	</div>
+</div>
+
+<div class="container">
+	<img style="width: 100%" src="static/img/five_view.png">
+	<div class="projects-header page-header">
+		<h2>能打电话的智能手表</h2>
+		<p>这些项目或者是对Bootstrap进行了有益的补充，或者是基于Bootstrap开发的</p>
+	</div>
 </div>
 
 
 <div class="container projects">
 
-	<div class="projects-header page-header">
-		<h2>能打电话的智能手表</h2>
-		<p>这些项目或者是对Bootstrap进行了有益的补充，或者是基于Bootstrap开发的</p>
-	</div>
 
 	<div class="row">
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="http://codeguide.bootcss.com" title="Bootstrap 编码规范" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'codeguide'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/codeguide.png" alt="Headroom.js"></a>
-				<div class="caption">
-					<h3>
-						<a href="http://codeguide.bootcss.com" title="Bootstrap 编码规范：编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'codeguide'])">Bootstrap 编码规范<br><small>by @mdo</small></a>
-					</h3>
-					<p>
-						Bootstrap 编码规范：编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范。
-					</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="http://www.jquery123.com/api/" title="jQuery API 中文文档/手册" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'jQueryAPI中文手册'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/jqueryapi.png" alt="jQuery API 中文文档/手册"></a>
-				<div class="caption">
-					<h3>
-						<a href="http://www.jquery123.com/api/" title="jQuery API 中文文档/手册" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'jQueryAPI中文手册'])">jQuery API <br><small>中文手册</small></a>
-					</h3>
-					<p>
-						根据最新的 jQuery 1.11.x 和 2.1.x 版本翻译的 jQuery API 中文文档/手册。
-					</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-sm-6 col-md-4 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="http://www.bootcdn.cn/" title="Bootstrap中文网开放CDN服务" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'bootcdn'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/opencdn.png" alt="Open CDN"></a>
-				<div class="caption">
-					<h3>
-						<a href="http://www.bootcdn.cn/" title="Bootstrap中文网开放CDN服务" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'bootcdn'])">Open CDN<br><small>开放CDN服务</small></a>
-					</h3>
-					<p>Bootstrap中文网联合又拍云存储共同推出了开放CDN服务，我们对广泛的前端开源库提供了稳定的存储和带宽的支持，例如Bootstrap、jQuery等。
-					</p>
-				</div>
-			</div>
-		</div>
-
-
-		<div class="col-sm-6 col-md-4 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="http://expo.bootcss.com/" title="Bootstrap优站精选" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'youzhan'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/expo.png" alt="Bootstrap优站精选"></a>
-				<div class="caption">
-					<h3>
-						<a href="http://expo.bootcss.com/" title="Bootstrap优站精选" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'youzhan'])">优站精选<br><small>Bootstrap网站实例</small></a>
-					</h3>
-					<p>Bootstrap优站精选频道收集了众多基于 Bootstrap 构建、设计精美的、有创意的网站。
-					</p>
-				</div>
-			</div>
-		</div>
-
 
 		<div class="col-sm-6 col-md-4 col-lg-3 ">
 			<div class="thumbnail">
@@ -198,47 +150,6 @@
 				</div>
 			</div>
 		</div>
-
-
-
-
-
-
-
-
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="/p/cikonss/" title="纯CSS实现的Icon" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'cikonss'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/cikonss.png" alt="Cikonss"></a>
-				<div class="caption">
-					<h3>
-						<a href="/p/cikonss/" title="纯CSS实现的Icon" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'cikonss'])">CIKONSS<br><small>纯CSS实现的Icon</small></a>
-					</h3>
-					<p>
-						Cikonss是纯CSS实现的响应式Icon，兼容IE8+。
-					</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="/p/headroom.js/" title="Headroom.js 是一个轻量级、纯 JS 组件，用来隐藏或展现页面上的元素，为你的页面留下更多展示内容的空间。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'headroom'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/headroom.png" alt="Headroom.js"></a>
-				<div class="caption">
-					<h3>
-						<a href="/p/headroom.js/" title="Headroom.js 是一个轻量级、纯 JS 组件，用来隐藏或展现页面上的元素，为你的页面留下更多展示内容的空间。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'headroom'])">Headroom.js<br><small>隐藏或展示页面元素</small></a>
-					</h3>
-					<p>
-						Headroom.js 是一个轻量级、纯 JavaScript 组件，用来隐藏或展现页面上的元素，为你的页面留下更多展示内容的空间。
-					</p>
-				</div>
-			</div>
-		</div>
-
-
-
-
-
 	</div>
 </div><!-- /.container -->
 
@@ -246,41 +157,34 @@
 	<div class="container">
 		<div class="row footer-top">
 			<div class="col-sm-6 col-lg-6">
-				<h4>
-					<img src="http://static.bootcss.com/www/assets/img/logo.png">
-				</h4>
-				<p>本网站所列开源项目的中文版文档全部由<a href="http://www.bootcss.com/">Bootstrap中文网</a>成员翻译整理，并全部遵循 <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>协议发布。</p>
+				<%--<h4>--%>
+					<%--<img src="http://static.bootcss.com/www/assets/img/logo.png">--%>
+				<%--</h4>--%>
+				<%--<p>本网站所列开源项目的中文版文档全部由<a href="http://www.bootcss.com/">上海小迪信息科技有限公司</a>成员翻译整理，并全部遵循 <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>协议发布。</p>--%>
 			</div>
 			<div class="col-sm-6  col-lg-5 col-lg-offset-1">
 				<div class="row about">
 					<div class="col-xs-3">
 						<h4>关于</h4>
 						<ul class="list-unstyled">
-							<li><a href="/about/">关于我们</a></li>
-							<li><a href="/ad/">广告合作</a></li>
-							<li><a href="/links/">友情链接</a></li>
-							<li><a href="/hr/">招聘</a></li>
+							<li><a href="#">关于我们</a></li>
+							<li><a href="#">广告合作</a></li>
+							<li><a href="#">友情链接</a></li>
+							<li><a href="#">招聘</a></li>
 						</ul>
 					</div>
 					<div class="col-xs-3">
 						<h4>联系方式</h4>
 						<ul class="list-unstyled">
-							<li><a href="http://weibo.com/bootcss" title="Bootstrap中文网官方微博" target="_blank">新浪微博</a></li>
-							<li><a href="mailto:admin@bootcss.com">电子邮件</a></li>
-						</ul>
-					</div>
-					<div class="col-xs-3">
-						<h4>旗下网站</h4>
-						<ul class="list-unstyled">
-							<li><a href="http://www.golaravel.com/" target="_blank">Laravel中文网</a></li>
-							<li><a href="http://www.ghostchina.com/" target="_blank">Ghost中国</a></li>
+							<li><a href="#" title="上海小迪网官方微博" target="_blank">新浪微博</a></li>
+							<li><a href="mailto:cruiserdou@qq.com">电子邮件</a></li>
 						</ul>
 					</div>
 					<div class="col-xs-3">
 						<h4>赞助商</h4>
 						<ul class="list-unstyled">
-							<li><a href="http://www.ucloud.cn/" target="_blank">UCloud</a></li>
-							<li><a href="https://www.upyun.com" target="_blank">又拍云</a></li>
+							<li><a href="#" target="_blank">UCloud</a></li>
+							<li><a href="#" target="_blank">又拍云</a></li>
 						</ul>
 					</div>
 				</div>
@@ -290,7 +194,7 @@
 		<hr/>
 		<div class="row footer-bottom">
 			<ul class="list-inline text-center">
-				<li><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备11008151号</a></li><li>京公网安备11010802014853</li>
+				<li><a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备11008151号</a></li><li>沪公网安备11010802014853</li>
 			</ul>
 		</div>
 	</div>

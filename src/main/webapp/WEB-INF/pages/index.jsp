@@ -76,82 +76,29 @@
 	<img style="width: 100%" src="static/img/view1.png">
 	<div class="projects-header page-header">
 		<h2>能打电话的智能手表</h2>
-		<p>这些项目或者是对Bootstrap进行了有益的补充，或者是基于Bootstrap开发的</p>
 	</div>
 </div>
 
 <div class="container">
 	<img style="width: 100%" src="static/img/five_view.png">
 	<div class="projects-header page-header">
-		<h2>能打电话的智能手表</h2>
-		<p>这些项目或者是对Bootstrap进行了有益的补充，或者是基于Bootstrap开发的</p>
+		<h2>手表五视图</h2>
 	</div>
 </div>
 
-
-<div class="container projects">
-
-
-	<div class="row">
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="http://www.gulpjs.com.cn/" title="gulp.js - 基于流的自动化构建工具。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'gulpjs'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/gulpjs.png" alt="gulpjs"></a>
-				<div class="caption">
-					<h3>
-						<a href="http://www.gulpjs.com.cn/" title="gulp.js - 基于流的自动化构建工具。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'gulp'])">gulp.js<br><small>基于流的自动化构建工具。</small></a>
-					</h3>
-					<p>gulp.js - 基于流(stream)的自动化构建工具。Grunt 采用配置文件的方式执行任务，而 Gulp 一切都通过代码实现。
-					</p>
-				</div>
-			</div>
-		</div>
-
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="/p/lesscss/" title="LESS一种动态样式语言" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'lesscss'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/lesscss.png" alt="LESSCSS"></a>
-				<div class="caption">
-					<h3>
-						<a href="/p/lesscss/" title="Grunt是基于Node.js的项目构建工具。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'lesscss'])">LESS<br><small>一种动态样式语言</small></a>
-					</h3>
-					<p>
-						LESS为CSS赋予了动态语言的特性，如变量、继承、运算、函数。LESS既可以在客户端上运行 (支持IE 6+、Webkit、Firefox)，也可以借助Node.js或者Rhino在服务端运行。
-					</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="http://www.gruntjs.net" title="Grunt是基于Node.js的项目构建工具。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'grunt'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/gruntjs.png" alt="Grunt"></a>
-				<div class="caption">
-					<h3>
-						<a href="http://www.gruntjs.net" title="Grunt是基于Node.js的项目构建工具。" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'grunt'])">Grunt<br><small>项目构建工具</small></a>
-					</h3>
-					<p>
-						Grunt是基于Node.js的项目构建工具。它可以自动运行你所设定的任务。Grunt拥有数量庞大的插件，几乎任何你所要做的事情都可以用Grunt实现。
-					</p>
-				</div>
-			</div>
-		</div>
-
-
-		<div class="col-sm-6 col-md-4 col-lg-3 ">
-			<div class="thumbnail">
-				<a href="/p/underscore/" title="Underscore.js 是一个 JavaScript 工具库" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'underscore'])"><img class="lazy" src="http://static.bootcss.com/www/assets/img/null.png?v2" width="300" height="150" data-src="http://static.bootcss.com/www/assets/img/underscore.png" alt="Underscore.js"></a>
-				<div class="caption">
-					<h3>
-						<a href="/p/underscore/" title="Underscore.js 是一个 JavaScript 工具库" target="_blank" onclick="_hmt.push(['_trackEvent', 'tile', 'click', 'underscore'])">Underscore.js<br><small>JavaScript 工具库</small></a>
-					</h3>
-					<p>
-						Underscore.js是一个 JavaScript 工具库，它提供了一整套函数式编程的实用功能，弥补了 jQuery 没有实现的功能，同时又是 Backbone 必不可少的部分。
-					</p>
-				</div>
-			</div>
-		</div>
+<div class="container">
+	<img style="width: 100%" src="static/img/before.png">
+	<div class="projects-header page-header">
+		<h2>手表正面图</h2>
 	</div>
-</div><!-- /.container -->
+</div>
+
+<div class="container">
+	<img style="width: 100%" src="static/img/beterry.png">
+	<div class="projects-header page-header">
+		<h2>手表充电器</h2>
+	</div>
+</div>
 
 <footer class="footer ">
 	<div class="container">

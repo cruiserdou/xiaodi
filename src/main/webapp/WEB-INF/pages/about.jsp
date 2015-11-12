@@ -74,40 +74,48 @@
     </div>
 </div>
 
-<div class="container" >
-    <div class="row">
-        <img class="col-xs-7" style="display: inline-block;" src="static/img/view1_only.png">
-
-        <div class="col-xs-5" style="display: inline-block;  padding-top: 14em;">
-            <h1>戴着它，就会爱上它。</h1>
-
-            <h3>收取并即时回应各种通知，追踪每天的运动情况，动动嘴就能控制音乐播放，还能随时展开体能训练。有了 Apple Watch，只需轻抬手腕，各种重要信息和功能就尽在掌握。</h3>
-        </div>
-    </div>
-</div>
-
 <div class="container">
-    <img style="width: 100%" src="static/img/five_view.png">
+    <h1>
+        互联网改变着我们的生活,也改变着孩子的世界
+        <br>
+        Internet has changed our lives, but also changing the child's world
+    </h1>
 
-    <div class="projects-header page-header">
-        <h2>手表五视图</h2>
-    </div>
+    <h1>
+        我们立志成为儿童及家庭领域人工智能陪护解决方案领导者
+        <br>
+        We aspire to be the kids & home artificial intelligence escort Solution Expert
+    </h1>
+    <h4>
+        基于语音语义声纹及深度问答技术,提供免费接入简单支持多平台个性化
+        设置的API端口,应用于自有品牌以及第三方的智能硬件、智能家居、机器
+        人等产品,成为智能新时代中国领先的人工智能系统开放平台。
+
+    </h4>
 </div>
-
 <div class="container">
-    <img style="width: 100%" src="static/img/before.png">
-
-    <div class="projects-header page-header">
-        <h2>手表正面图</h2>
-    </div>
+    <img style="display: block; margin: 1em auto;" src="static/img/group.png">
 </div>
-
 <div class="container">
-    <img style="width: 49%" src="static/img/b_status.jpg">
-    <img style="width: 49%" src="static/img/beterry.png">
+    <h2>基本状况</h2>
 
-    <div class="projects-header page-header">
-        <h2>手表充电器</h2>
+    <div>
+        <p>上海小迪信息科技有限公司成立于2015年2月17日,公司注册资本1000万元。公司专注于儿童智能硬件
+            研发、生产及销售,以及人工智能服务平台的运营及推广。
+            公司子公司上海谷柚信息科技有限公司,注册资本600万,致力于智能硬件以及人工智能服务平台的开
+            发。
+        </p>
+
+        <p>公司已注册“小迪”、“xiaodi”、“daemon”、“daemonrob”、daesmart为商标,图案商标正在申
+            请中。
+        </p>
+
+        <p>公司持有域名“daemonrob.com”、“daesmart.com”、 “daerobot.com” 。
+            公司以团结奋进、融合创新、追求卓越为理念,构建智能时代儿童成长新模式。
+            目前公司员工30人,其中本科以上技术人员达70%,均来自于INTEL、阿里巴巴、高通、德信、中兴等全
+            球知名公司。
+        </p>
+
     </div>
 </div>
 

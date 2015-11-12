@@ -51,31 +51,61 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand hidden-sm" href="#"
+            <a class="navbar-brand hidden-sm" href="/xiaodi"
                onclick="_hmt.push(['_trackEvent', 'navbar', 'click', 'navbar-首页'])">小迪信息科技</a>
         </div>
         <div class="navbar-collapse collapse" role="navigation">
             <ul class="nav navbar-nav">
                 <li class="hidden-sm hidden-md">
-                    <a href="bt" target="_self"
+                    <a href="about" target="_self"
                        onclick="_hmt.push(['_trackEvent', 'navbar', 'click', 'v2doc'])">公司概况</a>
                 </li>
             </ul>
         </div>
     </div>
 </div>
-<div class="bc-social">
-    <div class="container">
-        <ul class="bc-social-buttons">
-            <li class="social-qq">
-                <i>消息测试。。。</i>
-            </li>
-        </ul>
+<div class="container projects">
+
+    <div class="projects-header page-header">
+        <h2>消息测试</h2>
+
+        <p>
+            <span style="display: inline-block; margin-right: 3em;">发布人： XXX </span>
+            <span style="display: inline-block;padding-left: 3em;border-left: 1px solid #CCC;">发布时间：2015-11-11</span>
+        </p>
     </div>
 </div>
-
 <div class="container">
-    <img style="display: block; margin: 1em auto;" src="static/img/group.png">
+    <img style="width: 100%;display: block; margin: 1em auto;" src="static/img/msg.jpg">
+</div>
+<div class="container">
+    <div>
+        <p>小迪科技与天音控股(000829)战略合作,共同投入开发最有竞争力的
+            迪士尼儿童陪伴穿戴产品TX01,获得销售订单20万台,近1亿销售额,
+            产品上市时间15年9月。
+        </p>
+
+        <p>与莆田鞋业协会会长单位双驰鞋业深度合作,开发设计儿童智能健康鞋,
+            并获得订单保证金,预计15年内销售10万双智能童鞋。
+        </p>
+
+        <p>上海小迪信息科技有限公司成立于2015年2月17日,公司注册资本1000万元。公司专注于儿童智能硬件
+            研发、生产及销售,以及人工智能服务平台的运营及推广。
+            公司子公司上海谷柚信息科技有限公司,注册资本600万,致力于智能硬件以及人工智能服务平台的开
+            发。
+        </p>
+
+        <p>公司已注册“小迪”、“xiaodi”、“daemon”、“daemonrob”、daesmart为商标,图案商标正在申
+            请中。
+        </p>
+
+        <p>公司持有域名“daemonrob.com”、“daesmart.com”、 “daerobot.com” 。
+            公司以团结奋进、融合创新、追求卓越为理念,构建智能时代儿童成长新模式。
+            目前公司员工30人,其中本科以上技术人员达70%,均来自于INTEL、阿里巴巴、高通、德信、中兴等全
+            球知名公司。
+        </p>
+
+    </div>
 </div>
 
 <footer class="footer ">
@@ -95,15 +125,12 @@
                     <div class="col-xs-3">
                         <h4>联系方式</h4>
                         <ul class="list-unstyled">
-                            <li><a href="#" title="上海小迪网官方微博" target="_blank">新浪微博</a></li>
                             <li><a href="mailto:cruiserdou@qq.com">电子邮件</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-3">
                         <h4>赞助商</h4>
                         <ul class="list-unstyled">
-                            <li><a href="#" target="_blank">UCloud</a></li>
-                            <li><a href="#" target="_blank">又拍云</a></li>
                         </ul>
                     </div>
                 </div>
